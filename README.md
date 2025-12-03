@@ -1,6 +1,6 @@
 # Parkinson's Disease Diagnosis from Voice using Random Forest and TensorFlow Lite
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870821.svg)](https://doi.org/10.5281/zenodo.15870821)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870821.svg)](https://doi.org/10.5281/zenodo.15870821)   [![DOI](https://zenodo.org/badge/1049031107.svg)](https://doi.org/10.5281/zenodo.17800494)   
 
 ## 📋 Project Overview
 
